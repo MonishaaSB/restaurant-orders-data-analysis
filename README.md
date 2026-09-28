@@ -8,7 +8,6 @@ The project focuses on understanding **food ordering patterns, sales performance
 The main goal is to convert raw restaurant order data into meaningful and easy-to-understand insights.
 ## Project Objective
 The objectives of this project are to:
-
 * Understand and clean restaurant order data
 * Analyze customer ordering patterns
 * Identify the most popular food items and categories
